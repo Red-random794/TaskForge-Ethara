@@ -93,7 +93,3 @@ The server runs migrations automatically on startup.
 
 - `GET /api/dashboard`
 
-## Submission
-
-- Live URL: Add the Railway public URL after deployment.
-- GitHub repo: Add the repository URL after pushing.
